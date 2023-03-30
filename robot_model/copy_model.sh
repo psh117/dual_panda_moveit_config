@@ -1,1 +1,1 @@
-sudo cp dual_panda_suhan.urdf.xacro /opt/ros/noetic/share/franka_description/robots/dual_panda/.
+sudo cp dual_panda_suhan.urdf.xacro /opt/ros/$ROS_DISTRO/share/franka_description/robots/dual_panda/.
