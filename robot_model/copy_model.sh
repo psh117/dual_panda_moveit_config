@@ -1,0 +1,1 @@
+sudo cp dual_panda_suhan.urdf.xacro /opt/ros/noetic/share/franka_description/robots/dual_panda/.
